@@ -34,7 +34,6 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'blog1',
-    'subscribe',
     'form',
     'home',
     'post',
